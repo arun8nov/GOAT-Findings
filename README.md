@@ -86,7 +86,10 @@ model = YOLO("best.pt")
 # Track animals from a video source
 model.track(source="D:\GIT\GOAT-Findings\samples\Goat.mp4", show=True)
 ```
+## Tracking Video
 
+![](Goat_Tracking.mp4)
+<video src="Goat_Tracking.mp4" controls preload></video>
 ---
 
 ## 🚀 Future Enhancements
