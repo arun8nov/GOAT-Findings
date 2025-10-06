@@ -88,8 +88,7 @@ model.track(source="D:\GIT\GOAT-Findings\samples\Goat.mp4", show=True)
 ```
 ## Tracking Video
 
-![](Goat_Tracking.mp4)
-<video src="Goat_Tracking.mp4" controls preload></video>
+<video src="Goat_Tracking.mp4" width="620" height="240" controls></video>
 ---
 
 ## 🚀 Future Enhancements
